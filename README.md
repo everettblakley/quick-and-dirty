@@ -1,19 +1,7 @@
-# Svelte Example
+# A quick and dirty web app, to count how many quick and dirties we hear in lecture
 
-This directory is a brief example of a [Svelte](https://svelte.dev/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
+Made using [Svelte](https://svelte.dev/) with [Bulma CSS](https://bulma.io/), data hosting using [Firebase](https://firebase.google.com/), and deployed using [vercel](https://vercel.com/)
 
-## Deploy Your Own
+# Disclaimer
 
-Deploy your own Svelte project, along with Serverless Functions, with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/svelte)
-
-_Live Example: https://svelte.now-examples.now.sh_
-
-### How We Created This Example
-
-To get started with Svelte, along with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction), deployed with Vercel, you can use [degit](https://github.com/Rich-Harris/degit) to initialize the project:
-
-```shell
-$ npx degit sveltejs/template my-svelte-project
-```
+This was just for fun. I'll take it down if wanted
