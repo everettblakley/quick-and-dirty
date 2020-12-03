@@ -16,6 +16,6 @@
 </section>
 <footer class="footer">
   <div class="content has-text-centered">
-    <p>Simply made for fun. Don't <strong>@</strong> me</p>
+    <p>Simply made for fun. Check out the code <a href="https://github.com/everettblakley/quick-and-dirty">here</a></p>
   </div>
 </footer>
